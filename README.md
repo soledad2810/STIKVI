@@ -11,7 +11,7 @@
 2. Etiquetado de la data recopilada en dos clases (verde-rojo) usando la aplicación labelImag. 
 3. Incremento de la cantidad de imágenes a 528, usando distintas técnicas de preprocesamiento en la plataforma de [Roboflow](https://roboflow.com/).
 
-Dataset de Semáforos peatonales: [Pedestrian Light Detector](https://app.roboflow.com/project/pedestrian-light-detector/)
+Dataset propio de Semáforos peatonales: [Pedestrian Light Detector](https://app.roboflow.com/project/pedestrian-light-detector/)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Entrenamiento del modelo de detección de semáforos peatonales usando YOLOv4-tiny
