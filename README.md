@@ -1,7 +1,9 @@
 # STIKVI: A Smart Stick to Improve Navigation of Visually Impaired People
 Equipo:
+
     * Soledad Zarai Fernandez Arbieto
     * Kiara Micaela Rodriguez Bautista
+    
 ## Creación del dataset de semáforos peatonales
 1. Recopilación de 285 imágenes de semáforos peatonales usando [Google Maps](https://www.google.com/maps/).
 2. Etiquetado de la data recopilada en dos clases (verde-rojo) usando la aplicación labelImag. 
