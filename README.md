@@ -13,5 +13,8 @@
 
 Dataset de Semáforos peatonales: [Pedestrian Light Detector](https://app.roboflow.com/project/pedestrian-light-detector/)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+## Entrenamiento del modelo de detección de semáforos peatonales usando YOLOv4-tiny
 
-3. Instalar paquetes extras necesarios: `opencv-python` y `imutils`.
+1. Entrenamiento cin el dataset customizado usando el modelo de detección de objetos: [tiny-yolov4](https://colab.research.google.com/drive/15yqB8ZAWhU3Fr8VAyBKz_ulPvkPD-aUL?authuser=2#scrollTo=IO5LMU5wCPJB).
+
