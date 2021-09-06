@@ -1,7 +1,7 @@
 # STIKVI: A Smart Stick to Improve Navigation of Visually Impaired People
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Información del grupo
-1.Equipo:
+1. Equipo:
 
     * Soledad Zarai Fernandez Arbieto
     * Kiara Micaela Rodriguez Bautista
