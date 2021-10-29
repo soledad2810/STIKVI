@@ -26,5 +26,5 @@ Dataset propio de Semáforos peatonales: [Pedestrian Light Detector](https://app
    Los cuales se encuentran en la carpeta [Acuraccy92.13_](https://github.com/soledad2810/STIKVI/tree/main/Acuraccy%2092.13_).
    El archivo .cfg contiene la estructura de la red de entrenamiento, por otro lado, el archivo archivo .weights contiene los nuevos pesos del modelo.
    
-   Ambos archicos son importantes para desarrollar el script de detección de semáforos peatonales en tiempo real en OpenCV.
+   Ambos archivos son importantes para desarrollar el script de detección de semáforos peatonales en tiempo real en OpenCV.
 
